@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @proznerka
 - 👀 I’m interested in many artistic and technical things. 
-- 🌱 I’m currently learning javaScript, HTML & HTML5, CSS, GIT etc. to be a Frontend dev in future.
+- 🌱 I’m currently learning javaScript, HTML+CSS, React to be a Frontend dev in future.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me prozner.karina@gmail.com
 
